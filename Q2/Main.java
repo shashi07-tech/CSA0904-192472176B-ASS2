@@ -1,4 +1,5 @@
 import java.util.*;
+
 public class PlaylistBenchmark {
 static void test(int n) {
 List<Integer> array = new ArrayList<>(); List<Integer> linked = new LinkedList<>();
