@@ -3,7 +3,7 @@ public class TicketBenchmark {
         String result = "";
         StringBuilder sb = new StringBuilder();
         StringBuffer buffer = new StringBuffer();
-
+ 
         for (int i = 1; i <= fields; i++) {
             String value = "Field" + i + ":Value" + i + " ";
             if (type == 1) {
