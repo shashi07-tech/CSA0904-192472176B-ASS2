@@ -1,4 +1,5 @@
 import java.util.*; 
+
 class Patient { 
     String name; 
     int priority; 
